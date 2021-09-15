@@ -42,7 +42,7 @@ from .run_model.run_model import tpot_regression
 from .run_model.run_model import tpot_classification
 from .run_model.interpret_model import Global_Model_Explanation
 from .run_model.interpret_model import Explanation_Dashboard
-from .run_model.clustering import Clustering
+#from .run_model.clustering import Clustering
 # from .sentiment_analysis.sentiment_analysis import texts_from_df
 # from .sentiment_analysis.sentiment_analysis import get_model_learner
 # from .sentiment_analysis.sentiment_analysis import get_predictor
