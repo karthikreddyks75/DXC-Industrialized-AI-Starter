@@ -19,3 +19,4 @@ janitor==0.1.1
 raiwidgets==0.9.4
 scikit-learn
 flatten-json==0.1.13
+SQLAlchemy==1.4.22
